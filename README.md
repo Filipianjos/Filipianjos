@@ -19,7 +19,8 @@ Bem vindo ao meu perfil do GitHub!!
 
 ### Minhas estatisticas:
   <a href="https://github.com/Filipianjos"></a>
-https://github-readme-stats.vercel.app/api?username=Filipianjos&theme=dark&show_icons=true
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipianjos&theme=dark&show_icons=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipianjos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipianjos&layout=compact&langs_count=16&theme=dracula"/>
